@@ -1,4 +1,5 @@
 # Installing Pfsense on VM - Lab
+<img src="https://img.shields.io/badge/-pfSense%20Firewall-blue?style=for-the-badge"></img>
 
 ## Objective
 This lab includes steps for installing pfsense firewall in a VM for leanring and educational purpose .

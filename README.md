@@ -161,6 +161,8 @@ You will see Pfsense login screen. Username admin & Password pfsenser ( all smal
 
 ![image](https://github.com/syedhnaqvi/pfsense/assets/39069507/2a4555e8-2b30-424e-9b0b-16878aba92b1)
 
+Click NEXT and hurray you have successfully installed Pfsense on your VM .
+![image](https://github.com/syedhnaqvi/pfsense/assets/39069507/83f07f42-08dd-4ec5-a3bf-00de05760f11)
 
 
 
